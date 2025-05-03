@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá sou o Guilherme ! 👋
 
-<!--
-**guilo23/guilo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Sobre mim
+- 👨‍💻 Apaixonado por tecnologia.
+- 👨‍🎓 Estudante de Engnharia de software 
+- 🎯 Interesse: Java, git, Spring Boot, API , React, Angular, TypeScript, GoogleCloud   e Docker .
+ - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? 
+ - 🎮 Gosto de ler, jogar e estudar 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠 Minhas Skills
+
